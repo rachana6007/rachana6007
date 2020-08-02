@@ -18,7 +18,7 @@
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
 
-[email]: rachana6007@gmail.com
+
 [nodejs]: https://www.w3schools.com/nodejs/nodejs_intro.asp
 [blockchain]: https://www.blockchain.com/
 [instagram]: https://www.instagram.com/_t_i_c_k_l_e__s_t_a_r_/
