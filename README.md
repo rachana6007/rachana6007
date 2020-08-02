@@ -5,11 +5,9 @@
 🔭 I’m building a Smart Cradle. <br/>
 🌱 I'm currently learning [Blockchain] and [Node.js]  <br/>
 💬 Ask me about anything <br/>
-📫 How to reach me: rachana6007@gmail.com <br/>
+📫 Reach me at: rachana6007@gmail.com <br/>
 
 
-
-📦 [email][rachana6007@gmail.com] **|** 
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
 
