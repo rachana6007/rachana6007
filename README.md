@@ -1,6 +1,6 @@
 ### Hi, I'm Rachana 👋
 
-## I'm an Android App Developer and a FullStack Web Developer.
+# I'm an Android App Developer and a FullStack Web Developer.
 
 💻 Building a Smart Cradle Project. 
 🌱 I’m currently learning [Blockchain] Blockchain and [Node.js] Node.js
