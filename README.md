@@ -6,10 +6,8 @@
 🌱 I'm currently learning [Blockchain] and [Node.js]  <br/>
 💬 Ask me about anything <br/>
 📫 Reach me at: rachana6007@gmail.com <br/>
-⚡ Fun fact: I love to travel and read books
+⚡  Fun fact: I love to travel and read books
 
-<br />
-<br />
 
 
 #### Connect with me:
