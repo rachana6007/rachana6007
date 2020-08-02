@@ -3,8 +3,11 @@
 ##### I'm an Android App Developer and a FullStack Web Developer.
 
 💻 Building a Smart Cradle Project. 
+
 🌱 I’m currently learning [blockchain] Blockchain and [nodejs] Node.js
+
 💬 Ask me about anything
+
 📫 How to reach me: rachana6007@gmail.com
 
 
