@@ -2,12 +2,8 @@
 
 I'm Rachana, an Android App Developer and a FullStack Web Developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...Blockchain
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...anything
-- 📫 How to reach me: ... rachana6007@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning Blockchain
+- 💬 Ask me about anything
+- 📫 How to reach me: rachana6007@gmail.com
+
 -->
